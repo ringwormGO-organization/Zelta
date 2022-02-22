@@ -7,5 +7,6 @@ New Chrominium based browser with WPF support
 2. Download installer in root of main branch and run it.
 
 ### To compile
-1. Install Visual Studio 2019 or Visual Studio 2022 with .NET 5 support
-2. Open project and compile (if you can't compile project, try update CefSharp).
+1. Install Git and Git LFS
+2. Install Visual Studio 2019 or Visual Studio 2022 with .NET 5 support
+3. Open project and compile (if you can't compile project, try update CefSharp).
