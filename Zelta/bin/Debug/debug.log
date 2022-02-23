@@ -82,3 +82,80 @@
 [0222/193550.480:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 77309411332 [18,4] will be ignored
 [0222/194507.920:ERROR:gpu_init.cc(454)] Passthrough is not supported, GL is disabled, ANGLE is 
 [0222/194635.167:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0223/131141.303:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0223/131141.699:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/5ac70464-afd8-4955-83ab-560f2ece8ad2\" skips prefix match because of non-special URL scheme"
+[0223/131141.704:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/79ffbd25-53e0-46a9-ac3d-6c6ab28825a5\" skips prefix match because of non-special URL scheme"
+[0223/131141.725:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[0223/131141.753:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[0223/131142.416:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/131142.573:WARNING:browser_info.cc(301)] Returning a speculative frame for 38654705670 [9,6]
+[0223/131142.733:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/131142.734:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/131142.734:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/131142.734:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/131142.866:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803785 [6,9]
+[0223/131142.867:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803785 [6,9]
+[0223/131142.867:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803785 [6,9]
+[0223/131142.867:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803785 [6,9]
+[0223/131144.464:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/?toWww=1&redig=F2B660480D4E42F3984F92807198BEC5 (0)
+[0223/131203.905:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 25769803783 [6,7] will be ignored
+[0223/131203.910:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 25769803780 [6,4] will be ignored
+[0223/131256.859:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0223/131257.195:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/08fdd07c-4f47-4448-b1e1-9b0dac807d86\" skips prefix match because of non-special URL scheme"
+[0223/131257.198:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/78ac312b-dce7-4633-a197-ed19075be7c6\" skips prefix match because of non-special URL scheme"
+[0223/131257.211:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[0223/131257.291:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[0223/131257.750:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/131257.912:WARNING:browser_info.cc(301)] Returning a speculative frame for 34359738374 [8,6]
+[0223/131258.054:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/131258.055:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/131258.055:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/131258.056:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/131258.185:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803785 [6,9]
+[0223/131258.186:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803785 [6,9]
+[0223/131258.186:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803785 [6,9]
+[0223/131258.186:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803785 [6,9]
+[0223/131311.620:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/?toWww=1&redig=B5C54A4D7A974941BAE38A27D4A11AF9 (0)
+[0223/131632.166:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0223/131632.595:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/0249b9d3-0762-45ff-b395-fa3ef252ea77\" skips prefix match because of non-special URL scheme"
+[0223/131632.597:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/66236ff4-c5d4-4193-9658-f0545059b8e4\" skips prefix match because of non-special URL scheme"
+[0223/131632.607:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[0223/131632.626:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[0223/131633.125:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/131633.268:WARNING:browser_info.cc(301)] Returning a speculative frame for 38654705670 [9,6]
+[0223/131633.420:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/131633.421:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/131633.421:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/131633.422:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/131633.554:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803785 [6,9]
+[0223/131633.555:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803785 [6,9]
+[0223/131633.555:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803785 [6,9]
+[0223/131633.556:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803785 [6,9]
+[0223/131635.405:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/?toWww=1&redig=0B39AE87D21647639731160353755110 (0)
+[0223/132548.067:ERROR:gpu_init.cc(454)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0223/141015.597:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0223/141015.869:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/56b496b6-d6e5-4d7b-af6e-a937cecfb3b4\" skips prefix match because of non-special URL scheme"
+[0223/141015.870:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/c7075097-cdc3-48aa-8f69-5fb7f60da428\" skips prefix match because of non-special URL scheme"
+[0223/141015.877:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[0223/141015.884:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[0223/141016.284:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/141016.395:WARNING:browser_info.cc(301)] Returning a speculative frame for 38654705670 [9,6]
+[0223/141016.561:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/141016.562:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/141016.562:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/141016.562:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[0223/141016.660:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803785 [6,9]
+[0223/141016.661:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803785 [6,9]
+[0223/141016.661:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803785 [6,9]
+[0223/141016.662:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803785 [6,9]
+[0223/141018.716:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/?toWww=1&redig=ED2C77CD74CC47B2978A754D8CCCD4A0 (0)
+[0223/141032.012:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 25769803785 [6,9] will be ignored
+[0223/141032.013:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 25769803783 [6,7] will be ignored
+[0223/141032.015:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 25769803780 [6,4] will be ignored
+[0223/142824.632:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0223/143042.946:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0223/143045.805:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 21474836484 [5,4] will be ignored
+[0223/143156.540:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0223/143457.898:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0223/143457.930:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0223/143543.599:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored

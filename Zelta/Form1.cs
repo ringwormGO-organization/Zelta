@@ -51,14 +51,16 @@ namespace Zelta
         {
             this.Invoke(new MethodInvoker(() =>
             {
-                richTextBox1.Text = e.Title;
+                richTextBox2.Text = e.Title;
             }));
         }
 
         private void btnSet_Click(object sender, EventArgs e)
         {
-            Settings settings = new Settings();
-            settings.Show();
+            if (!groupBox1.Visible)
+                groupBox1.Visible = true;
+            else
+                groupBox1.Visible = false;
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
@@ -117,6 +119,22 @@ namespace Zelta
 
             if (chrome != null)
                 chrome.Refresh();
+        }
+
+        private void richTextBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                ChromiumWebBrowser chrome = tabControl1.SelectedTab.Controls[0] as ChromiumWebBrowser;
+
+                if (chrome != null)
+                    chrome.Load(richTextBox1.Text);
+            }
+        }
+
+        private void richTextBox1_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+            richTextBox1.SelectAll();
         }
     }
 }

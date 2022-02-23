@@ -97,4 +97,3 @@ D:\AndrejBackup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\GitHub\Zelta
 D:\AndrejBackup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\GitHub\Zelta\Zelta\obj\Debug\Zelta.csproj.CopyComplete
 D:\AndrejBackup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\GitHub\Zelta\Zelta\obj\Debug\Zelta.exe
 D:\AndrejBackup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\GitHub\Zelta\Zelta\obj\Debug\Zelta.pdb
-D:\AndrejBackup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\GitHub\Zelta\Zelta\obj\Debug\Zelta.Settings.resources
