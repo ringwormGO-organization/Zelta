@@ -1,5 +1,6 @@
 # Zelta
-New Chrominium based browser with WPF support
+New Chrominium based browser with WPF support.
+Use installer to use version without chrome null bug.
 
 ## System requiratmens
 ### To simply run
